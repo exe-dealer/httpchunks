@@ -1,0 +1,4 @@
+[package]
+name = "httpchunks"
+version = "0.1.0"
+authors = ["Nezhutin Vladislav <vnezhutin@lintech.ru>"]
